@@ -1,4 +1,7 @@
 #!/bin/sh
+
+proot-distro login Ubuntu
+
 VSCODE_VERSION="4.5.1"
 
 export PASSWORD="password"
